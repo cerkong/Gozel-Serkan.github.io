@@ -12,7 +12,7 @@ title                    : "Serkan Gozel"
 title_separator          : "-"
 name                     : &name "Serkan Gozel"
 description              : &description "personal description"
-url                      : https://cerkong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://cerkong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/Gozel-Serkan.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "cerkong/Gozel-Serkan.github.io"
 
